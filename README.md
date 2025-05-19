@@ -11,7 +11,7 @@ Bu dosyaları CDN üzerinden doğrudan projenize ekleyebilirsiniz:
 
 ```html
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/ercanvas/voice-access-turkish@main/voice-access.min.css" />
-<script src="https://cdn.jsdelivr.net/gh/ercanvas/voice-access-turkish@main/voice-access.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/ercanvas/voice-access-turkish@main/voice-access.min.js" defer></script>
 ```
 
 Buton eklemek için:

@@ -10,8 +10,8 @@ Bu klasörde, erişilebilirlik ve sesli komut desteği sağlayan voice-access pr
 Bu dosyaları CDN üzerinden doğrudan projenize ekleyebilirsiniz:
 
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/kullaniciadi/voice-access/minified/voice-access.min.css">
-<script src="https://cdn.jsdelivr.net/gh/kullaniciadi/voice-access/minified/voice-access.min.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/ercanvas/voice-access-turkish@main/minified/voice-access.min.css" />
+<script src="https://cdn.jsdelivr.net/gh/ercanvas/voice-access-turkish@main/minified/voice-access.min.js"></script>
 ```
 
 Buton eklemek için:
